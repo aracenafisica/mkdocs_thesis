@@ -1,4 +1,4 @@
-Scripts de Python
+Thesis Magister Física Médica UC Andrés Aracena
 =================
 
 .. toctree::
