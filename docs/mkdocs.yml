@@ -4,6 +4,5 @@ nav:
     - Inicio: 'index.md'
     - 'Funciones':
         - 'Funcion atributo img': '00_00_funcion_atributos.md'
-        - 'Función order slice': '00_01_funcion_orderslice.md'
         
 theme: readthedocs

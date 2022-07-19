@@ -1,4 +1,4 @@
-![](imagenes/UC_FMRI.jpg)
+![](img/UC_FMRI.jpg)
 
 ---
 
@@ -123,7 +123,7 @@ Como cualquier *objeto* de Python, se puede inspeccionar *img_ana* y/o *img_fis*
 
 Si trabajas en Jupiter Notebook, se recomienda habilitar la extension de Autocompletar texto (*Hiterland*), el cual, al escribir en el codigo el objeto seguido de un punto, nos mostrara los diferentes atributos de dicho objeto:
 
-![](imagenes/atributo.jpg)
+![](img/atributo.jpg)
 
 A continuacion se da el ejemplo de algunos atributos de las imagenes:
 
@@ -328,7 +328,7 @@ print('Header de la imagen fisiologica:', '\n','\n' , header_fis)
 
 #### Metodos del atributo *Header*
 
-![](imagenes/metodo_header.jpg)
+![](img/metodo_header.jpg)
 
 ##### Forma de la matriz
 
