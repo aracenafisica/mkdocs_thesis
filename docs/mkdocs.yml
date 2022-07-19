@@ -1,0 +1,11 @@
+site_name: Thesis Magister Física Médica UC Andrés Aracena
+
+nav:
+    - Inicio: 'index.md'
+    - Acerca de: 'about.md'
+    - 'Funciones':
+        - 'Funcion atributo_img' : '00_00_funcion_atributos.md'
+        - 'Función order_slice' : '00_01_funcion_orderslice.md'
+
+
+theme: readthedocs
