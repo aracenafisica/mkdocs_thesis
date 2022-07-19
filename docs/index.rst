@@ -2,6 +2,11 @@ Thesis Magister Física Médica UC Andrés Aracena
 =================
 
 .. toctree::
+    :caption: Introducción
+    
+    bienvenida
+    
+.. toctree::
     :caption: Funciones
     
     00_00_funcion_atributos    
