@@ -12,7 +12,7 @@
 
 --------------
 
-Orden de adquisición de neuroimágenes y función ‘order_slice’
+Función ‘order_slice’
 =============================================================
 
 Para la adquisición del orden de adquisición de la imagen, extraemos

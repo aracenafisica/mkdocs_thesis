@@ -12,43 +12,6 @@
 
 ---
 
-El siguiente Script de Python forma parte del trabajo especial de grado.
-
-Profesora Guía:
-
-*PhD María Daniela Cornejo*
-
----
-
----
-
-Imagenes de fMRI extraidas de OpenNeuro:
-
-- [ds001454](https://openneuro.org/datasets/ds001454/versions/1.3.1)
-- [ds002422](https://openneuro.org/datasets/ds002422/versions/1.1.0)
-- [ds004101](https://openneuro.org/datasets/ds004101/versions/1.0.1)
-
----
-
----
-
-Con referencia:
-
-- [Pagina oficial NIbabel](https://nipy.org/nibabel/index.html) 
-
-Orientaciones:
-
-- Neu, Scott and Crawford, Karen and Toga, Arthur.Practical management of heterogeneous neuroimaging metadata by global neuroimaging data repositories.Frontiers in Neuroinformatics.6.2012.   https://www.frontiersin.org/articles/10.3389/fninf.2012.00008/full
-
-- Poldrack, R. A., Mumford, J. A., and Nichols, T. E. (2011). Handbook of functional MRI data analysis. Cambridge University Press.
-
-- https://nipy.org/nibabel/coordinate_systems.html
-- https://nipy.org/nibabel/neuro_radio_conventions.html
-
----
-
----
-
 Acronimos:
 - RM: Resonancia Magnética
 - IMR: Imágen de Resoanncia Magnetica
@@ -59,13 +22,11 @@ Acronimos:
 
 ---
 
-Imagenes realizadas por el autor del script, con apoyo de imagenes 3D de sujetos (radiológo/neurológo y físico/ingeniero) del programa Microsoft PowerPoint y sujeto en estudio (rojo) de la pagina web https://free3d.com/es/modelo-3d/mascular-male-base-mesh-99526.html
 
----
 
----
+# Función 'visual_cortes_ana'
 
-# Orientación, sistemas de coordenadas, cortes slices y función 'visual_cortes_ana'
+Script con la descripción/definición sobre orientación, sistemas de coordenadas, cortes slices y la creación de la función 'visual_cortes_ana'
 
 ## Importamos librerias
 
@@ -1120,5 +1081,39 @@ print('--------------------------------------')
      0.151 min
     --------------------------------------
 
+## Referencia
+
+Imagenes de fMRI extraidas de OpenNeuro:
+
+- [ds001454](https://openneuro.org/datasets/ds001454/versions/1.3.1)
+- [ds002422](https://openneuro.org/datasets/ds002422/versions/1.1.0)
+- [ds004101](https://openneuro.org/datasets/ds004101/versions/1.0.1)
+
+---
+
+---
+
+Con referencia:
+
+- [Pagina oficial NIbabel](https://nipy.org/nibabel/index.html) 
+
+Orientaciones:
+
+- Neu, Scott and Crawford, Karen and Toga, Arthur.Practical management of heterogeneous neuroimaging metadata by global neuroimaging data repositories.Frontiers in Neuroinformatics.6.2012.   https://www.frontiersin.org/articles/10.3389/fninf.2012.00008/full
+
+- Poldrack, R. A., Mumford, J. A., and Nichols, T. E. (2011). Handbook of functional MRI data analysis. Cambridge University Press.
+
+- https://nipy.org/nibabel/coordinate_systems.html
+- https://nipy.org/nibabel/neuro_radio_conventions.html
+
+---
+
+---
+
+Imagenes realizadas por el autor del script, con apoyo de imagenes 3D de sujetos (radiológo/neurológo y físico/ingeniero) del programa Microsoft PowerPoint y sujeto en estudio (rojo) de la pagina web https://free3d.com/es/modelo-3d/mascular-male-base-mesh-99526.html
+
+---
+
+---
 
 ## Fin
