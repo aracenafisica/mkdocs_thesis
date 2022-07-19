@@ -4,4 +4,4 @@ Thesis Magister Física Médica UC Andrés Aracena
 .. toctree::
     :caption: Funciones
     
-    funcionatributos
+    00_01_funcion_orderslice.rst
