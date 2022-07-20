@@ -1278,6 +1278,11 @@ https://free3d.com/es/modelo-3d/mascular-male-base-mesh-99526.html
 
 --------------
 
+Localización del script de python
+---------------------------------
+
+`00_02_Funcion_visualcortesana <https://github.com/aracenafisica/00_02_Funcion_visualcortesana.git>`__
+
 Fin
 ---
 

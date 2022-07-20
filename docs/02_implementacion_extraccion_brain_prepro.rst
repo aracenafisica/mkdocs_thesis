@@ -1,5 +1,9 @@
 |image0|
 
+--------------
+
+--------------
+
 **Andres Eduardo Aracena Rangel**
 
 *Estudiante del programa del Magister en Física Médica*
@@ -8,24 +12,8 @@
 
 --------------
 
-El siguiente Script de Python forma parte del trabajo especial de grado.
-
-Profesora Guía:
-
-*PhD María Daniela Cornejo*
-
---------------
-
---------------
-
-Imagenes de fMRI extraidas de OpenNuero:
-
--  `ds002422 <https://openneuro.org/datasets/ds002422/versions/1.1.0>`__
-
---------------
-
-Extracción de craneo en imagenes funcional preprocesada
-=======================================================
+Extracción del cerebro de la imagen preprocesada
+================================================
 
 Importamos librerias
 --------------------
@@ -2412,6 +2400,18 @@ Tiempo de ejecución
     14.634349848 seg
     0.2439058308 min
     ---------------------------------------
+
+Referencia
+----------
+
+Imagenes de fMRI extraidas de OpenNuero:
+
+-  `ds002422 <https://openneuro.org/datasets/ds002422/versions/1.1.0>`__
+
+Localización del script de python
+---------------------------------
+
+`02_Implementacion_extraccion_brain_prepro <https://github.com/aracenafisica/02_Implementacion_extraccion_brain_prepro.git>`__
 
 FIN
 ---

@@ -1116,4 +1116,8 @@ Imagenes realizadas por el autor del script, con apoyo de imagenes 3D de sujetos
 
 ---
 
+## Localización del script de python
+
+[00_02_Funcion_visualcortesana](https://github.com/aracenafisica/00_02_Funcion_visualcortesana.git)
+
 ## Fin

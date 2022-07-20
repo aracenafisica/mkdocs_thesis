@@ -1,153 +1,36 @@
 |image0|
 
+--------------
+
+--------------
+
 **Andres Eduardo Aracena Rangel**
 
 *Estudiante del programa del Magister en Física Médica*
 
-El siguiente Script de Python forma parte del trabajo especial de grado.
-
-Profesora Guía:
-
-*PhD María Daniela Cornejo*
-
 --------------
 
 --------------
 
-  Con referencia:
+Acronimos:
 
--  `Pagina oficial Nibabel <https://nipy.org/nibabel/index.html>`__
+-  CSF: Cerebrospinal Fluid (*líquido cefalorraquídeo*)
+-  GM: Gray Matter (*materia gris*)
+-  WM: White Matter (*materia blanca*)
 
-Imagenes de fMRI extraidas de OpenNuero:
+--------------
 
--  `ds002422 <https://openneuro.org/datasets/ds002422/versions/1.1.0>`__
-
-+---+
-| A |
-| c |
-| r |
-| o |
-| n |
-| i |
-| m |
-| o |
-| s |
-| : |
-+---+
-| C |
-| S |
-| F |
-| : |
-| C |
-| e |
-| r |
-| e |
-| b |
-| r |
-| o |
-| s |
-| p |
-| i |
-| n |
-| a |
-| l |
-| F |
-| l |
-| u |
-| i |
-| d |
-| ( |
-| * |
-| l |
-| í |
-| q |
-| u |
-| i |
-| d |
-| o |
-| c |
-| e |
-| f |
-| a |
-| l |
-| o |
-| r |
-| r |
-| a |
-| q |
-| u |
-| í |
-| d |
-| e |
-| o |
-| * |
-| ) |
-| G |
-| M |
-| : |
-| G |
-| r |
-| a |
-| y |
-| M |
-| a |
-| t |
-| t |
-| e |
-| r |
-| ( |
-| * |
-| m |
-| a |
-| t |
-| e |
-| r |
-| i |
-| a |
-| g |
-| r |
-| i |
-| s |
-| * |
-| ) |
-| W |
-| M |
-| : |
-| W |
-| h |
-| i |
-| t |
-| e |
-| M |
-| a |
-| t |
-| t |
-| e |
-| r |
-| ( |
-| * |
-| m |
-| a |
-| t |
-| e |
-| r |
-| i |
-| a |
-| b |
-| l |
-| a |
-| n |
-| c |
-| a |
-| * |
-| ) |
-+---+
+--------------
 
 NOTA: Cuando indiquemos imagenes brain o mascaras brain, nos estamos
 refieriendo a las imagenes o mascaras de csf, wm, gm
 
-Promedio de las serie de tiempo de mascaras csf, gm y wm
-========================================================
+--------------
+
+--------------
+
+Promedio de las series de tiempo del tejido cerebral
+====================================================
 
 Del notebook **03_extraccion_series_tiempo_brain_umbral_095.ipynb** se
 extrajo las series de tiempo que corresponden a las mascaras para csf,
@@ -22028,6 +21911,23 @@ Tiempo de ejecución
     0.42717802349999995 min
     ---------------------------------------
 
-  ## Fin
+Referencia
+----------
+
+Con referencia:
+
+-  `Pagina oficial Nibabel <https://nipy.org/nibabel/index.html>`__
+
+Imagenes de fMRI extraidas de OpenNuero:
+
+-  `ds002422 <https://openneuro.org/datasets/ds002422/versions/1.1.0>`__
+
+Localización del script de python
+---------------------------------
+
+`04_Implementacion_promedio_series_tiempo <https://github.com/aracenafisica/04_Implementacion_promedio_series_tiempo.git>`__
+
+Fin
+---
 
 .. |image0| image:: imagenes/UC_FMRI.jpg

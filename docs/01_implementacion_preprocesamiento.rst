@@ -12,37 +12,14 @@
 
 --------------
 
-El siguiente Script de Python forma parte del trabajo especial de grado.
-
-Profesora Guía:
-
-*PhD María Daniela Cornejo*
-
---------------
-
---------------
-
-Imagenes de fMRI extraidas de OpenNeuro:
-
--  `ds002422 <https://openneuro.org/datasets/ds002422/versions/1.1.0>`__
-
---------------
-
---------------
-
-Con referencia a:
-
--  `Nipype tutorial de Michael
-   Notter <https://miykael.github.io/nipype_tutorial/>`__
-
 Acronimos:
 
 -  CSF: Cerebrospinal Fluid (*líquido cefalorraquídeo*)
 -  GM: Gray Matter (*materia gris*)
 -  WM: White Matter (*materia blanca*)
 
-Flujo Trabajo de Preprocesamiento - con iterable de mask_ref
-============================================================
+Preprocesamiento - Flujo de trabajo de Nipype
+=============================================
 
 Importamos Librerias
 --------------------
@@ -4213,6 +4190,27 @@ Tiempo de ejecución
     9.585817185 seg
     0.15976361975 min
     ---------------------------------------
+
+Referencia
+----------
+
+Imagenes de fMRI extraidas de OpenNeuro:
+
+-  `ds002422 <https://openneuro.org/datasets/ds002422/versions/1.1.0>`__
+
+--------------
+
+--------------
+
+Con referencia a:
+
+-  `Nipype tutorial de Michael
+   Notter <https://miykael.github.io/nipype_tutorial/>`__
+
+Localización del script de python
+---------------------------------
+
+`01_Implementacion_extraccion_brain_prepro <https://github.com/aracenafisica/01_Implementacion_extraccion_brain_prepro.git>`__
 
 Fin
 ---

@@ -12,28 +12,6 @@
 
 --------------
 
-El siguiente Script de Python forma parte del trabajo especial de grado.
-
-Profesora Guía:
-
-*PhD María Daniela Cornejo*
-
---------------
-
---------------
-
-  Con referencia:
-
--  `Pagina oficial NIbabel <https://nipy.org/nibabel/index.html>`__
-
-Imagenes de fMRI extraidas de OpenNuero:
-
--  `ds002422 <https://openneuro.org/datasets/ds002422/versions/1.1.0>`__
-
---------------
-
---------------
-
 Acronimos:
 
 -  CSF: Cerebrospinal Fluid (*líquido cefalorraquídeo*)
@@ -47,8 +25,12 @@ Acronimos:
 NOTA: Cuando indiquemos imagenes brain o mascaras brain, nos estamos
 refieriendo a las imagenes o mascaras de csf, wm, gm
 
-Extracción serie de tiempo promedio de mascaras csf, gm y wm
-============================================================
+--------------
+
+--------------
+
+Extracción de series de tiempo del CSF, GM yWM
+==============================================
 
 Del notebook **workflow_preprocesamiento_iterables_maskref.ipynb** se
 extrajo las mascaras para csf, gm y wm para tres umbrales \*0.5, 0.9 y
@@ -20067,6 +20049,22 @@ Tiempo de ejecución
     164.443020646 seg
     2.7407170107666667 min
     ---------------------------------------
+
+Referencia
+----------
+
+Con referencia:
+
+-  `Pagina oficial NIbabel <https://nipy.org/nibabel/index.html>`__
+
+Imagenes de fMRI extraidas de OpenNuero:
+
+-  `ds002422 <https://openneuro.org/datasets/ds002422/versions/1.1.0>`__
+
+Localización del script de python
+---------------------------------
+
+`03_Implementacion_extraccion_series_tiempo <https://github.com/aracenafisica/03_Implementacion_extraccion_series_tiempo.git>`__
 
 Fin
 ---

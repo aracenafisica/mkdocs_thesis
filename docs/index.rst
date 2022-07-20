@@ -17,3 +17,11 @@ Thesis Magister Física Médica UC Andrés Aracena
     :caption: Metodología / Implementación
     
     01_implementacion_preprocesamiento
+    02_implementacion_extraccion_brain_prepro
+    03_implementacion_extraccion_series_tiempo
+    04_implementacion_promedio_series_tiempo
+    
+.. toctree::
+    :caption: Scripts adicionales
+    
+    01_implementacion_preprocesamiento_visualizacion

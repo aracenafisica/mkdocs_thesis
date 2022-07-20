@@ -1,6 +1,7 @@
 ![](imagenes/UC_FMRI.jpg)
 
 ---
+
 ---
 
 ***Andres Eduardo Aracena Rangel***
@@ -8,38 +9,25 @@
 *Estudiante del programa del Magister en Física Médica*
 
 ---
----
-
-El siguiente Script de Python forma parte del trabajo especial de grado.
-
-Profesora Guía:
-
-*PhD María Daniela Cornejo*
 
 ---
 
----
-
-El siguiente Script de Python forma parte del trabajo especial de grado.
-
-&nbsp;
-Con referencia:
-
-- [Pagina oficial NIbabel](https://nipy.org/nibabel/index.html) 
-
-Imagenes de fMRI extraidas de OpenNuero:
- 
- - [ds002422](https://openneuro.org/datasets/ds002422/versions/1.1.0)
- 
- ---
  Acronimos:
 
 - CSF: Cerebrospinal Fluid (*líquido cefalorraquídeo*)
 - GM: Gray Matter (*materia gris*)
 - WM: White Matter (*materia blanca*)
+
 ---
+
+---
+
 NOTA:
 Cuando indiquemos imagenes brain o mascaras brain, nos estamos refieriendo a las imagenes o mascaras de csf, wm, gm
+
+---
+
+---
 
 # Visualización mascaras csf, wm y gm resultantes del preprocesamiento
 
@@ -858,6 +846,21 @@ print('--------------------------------------')
      13.049 seg
      0.217 min
     --------------------------------------
+    
+## Referencia
+
+Con referencia:
+
+- [Pagina oficial Nibabel](https://nipy.org/nibabel/index.html) 
+
+Imagenes de fMRI extraidas de OpenNuero:
+ 
+ - [ds002422](https://openneuro.org/datasets/ds002422/versions/1.1.0)
+
+## Localización del script de python
+
+[01_Implementacion_preprocesamiento_visualizacion](https://github.com/aracenafisica/01_Implementacion_preprocesamiento_visualizacion.git)
+
 
 
 ## FIN

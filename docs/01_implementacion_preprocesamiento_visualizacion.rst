@@ -1,152 +1,33 @@
 |image0|
 
+--------------
+
+--------------
+
 **Andres Eduardo Aracena Rangel**
 
 *Estudiante del programa del Magister en Física Médica*
 
-El siguiente Script de Python forma parte del trabajo especial de grado.
-
-Profesora Guía:
-
-*PhD María Daniela Cornejo*
-
 --------------
 
 --------------
 
-El siguiente Script de Python forma parte del trabajo especial de grado.
+Acronimos:
 
-  Con referencia:
+-  CSF: Cerebrospinal Fluid (*líquido cefalorraquídeo*)
+-  GM: Gray Matter (*materia gris*)
+-  WM: White Matter (*materia blanca*)
 
--  `Pagina oficial NIbabel <https://nipy.org/nibabel/index.html>`__
+--------------
 
-Imagenes de fMRI extraidas de OpenNuero:
-
--  `ds002422 <https://openneuro.org/datasets/ds002422/versions/1.1.0>`__
-
-+---+
-| A |
-| c |
-| r |
-| o |
-| n |
-| i |
-| m |
-| o |
-| s |
-| : |
-+---+
-| C |
-| S |
-| F |
-| : |
-| C |
-| e |
-| r |
-| e |
-| b |
-| r |
-| o |
-| s |
-| p |
-| i |
-| n |
-| a |
-| l |
-| F |
-| l |
-| u |
-| i |
-| d |
-| ( |
-| * |
-| l |
-| í |
-| q |
-| u |
-| i |
-| d |
-| o |
-| c |
-| e |
-| f |
-| a |
-| l |
-| o |
-| r |
-| r |
-| a |
-| q |
-| u |
-| í |
-| d |
-| e |
-| o |
-| * |
-| ) |
-| G |
-| M |
-| : |
-| G |
-| r |
-| a |
-| y |
-| M |
-| a |
-| t |
-| t |
-| e |
-| r |
-| ( |
-| * |
-| m |
-| a |
-| t |
-| e |
-| r |
-| i |
-| a |
-| g |
-| r |
-| i |
-| s |
-| * |
-| ) |
-| W |
-| M |
-| : |
-| W |
-| h |
-| i |
-| t |
-| e |
-| M |
-| a |
-| t |
-| t |
-| e |
-| r |
-| ( |
-| * |
-| m |
-| a |
-| t |
-| e |
-| r |
-| i |
-| a |
-| b |
-| l |
-| a |
-| n |
-| c |
-| a |
-| * |
-| ) |
-+---+
+--------------
 
 NOTA: Cuando indiquemos imagenes brain o mascaras brain, nos estamos
 refieriendo a las imagenes o mascaras de csf, wm, gm
+
+--------------
+
+--------------
 
 Visualización mascaras csf, wm y gm resultantes del preprocesamiento
 ====================================================================
@@ -1730,6 +1611,22 @@ Tiempo de ejecución
     13.049 seg
     0.217 min
    --------------------------------------
+
+Referencia
+----------
+
+Con referencia:
+
+-  `Pagina oficial Nibabel <https://nipy.org/nibabel/index.html>`__
+
+Imagenes de fMRI extraidas de OpenNuero:
+
+-  `ds002422 <https://openneuro.org/datasets/ds002422/versions/1.1.0>`__
+
+Localización del script de python
+---------------------------------
+
+`01_Implementacion_preprocesamiento_visualizacion <https://github.com/aracenafisica/01_Implementacion_preprocesamiento_visualizacion.git>`__
 
 FIN
 ---
