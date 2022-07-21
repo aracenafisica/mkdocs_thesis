@@ -782,7 +782,7 @@ for i, im in enumerate(vol_img):
 
 
     
-![png](imagenes/output_41_1.png)
+![png](imagenes/output_41_11.png)
     
 
 
