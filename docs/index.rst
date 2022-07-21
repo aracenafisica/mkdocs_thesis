@@ -25,3 +25,4 @@ Thesis Magister Física Médica UC Andrés Aracena
     :caption: Scripts adicionales
     
     01_implementacion_preprocesamiento_visualizacion
+    01_implementacion_preprocesamiento_adicional_iterables
