@@ -888,13 +888,13 @@ visual_cortes_ana(img= img,
 
 
     
-![png](output_42_0.png)
+![png](imagenes/output_42_0.png)
     
 
 
 
     
-![png](output_42_1.png)
+![png](imagenes/output_42_1.png)
     
 
 
@@ -919,25 +919,25 @@ for i, mas in enumerate(lista_vis):
 
 
     
-![png](output_44_0.png)
+![png](imagenes/output_44_0.png)
     
 
 
 
     
-![png](output_44_1.png)
+![png](imagenes/output_44_1.png)
     
 
 
 
     
-![png](output_44_2.png)
+![png](imagenes/output_44_2.png)
     
 
 
 
     
-![png](output_44_3.png)
+![png](imagenes/output_44_3.png)
     
 
 

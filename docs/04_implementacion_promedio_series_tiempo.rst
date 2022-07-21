@@ -10280,7 +10280,7 @@ Graficamos series de tiempo
                     titulo='Promedio global de las series de tiempo de las mascaras del CSF, GM y WM',
                     name_save='promedio_series_brain_promedio.png')
 
-.. figure:: output_51_0.png
+.. figure:: imagenes/output_51_0.png
    :alt: png
 
    png
@@ -10292,7 +10292,7 @@ Graficamos series de tiempo
                     titulo='Promedio global normalizado de las series de tiempo de las mascaras del CSF, GM y WM',
                     name_save= 'promedio_series_brain_normalizados.png')
 
-.. figure:: output_52_0.png
+.. figure:: imagenes/output_52_0.png
    :alt: png
 
    png
@@ -14537,7 +14537,7 @@ Damos un formato a las DF solo para ser extraidas a un documento
                      titulo='Serie de tiempo promedio global, minima y maxima de la mascara del CSF',
                      name_save='promedio_min_max_series_csf_promedio.png')
 
-.. figure:: output_77_0.png
+.. figure:: imagenes/output_77_0.png
    :alt: png
 
    png
@@ -15868,7 +15868,7 @@ maxima normalizada.
                     titulo='Serie de tiempo normalizada, minima y maxima de la mascara csf',
                     name_save='promedio_min_max_series_csf_normalizada.png')
 
-.. figure:: output_86_0.png
+.. figure:: imagenes/output_86_0.png
    :alt: png
 
    png
@@ -20116,13 +20116,15 @@ Damos un formato a las DF solo para ser extraidas a un documento
                     titulo='Serie de tiempo promedio, minima y maxima de la mascara de la WM',
                     name_save='promedio_min_max_series_wm_promedio.png')
 
-.. figure:: output_109_0.png
+.. figure:: imagenes/output_109_0.png
    :alt: png
 
    png
 
-Valor del deta serie
-^^^^^^^^^^^^^^^^^^^^
+.. _valor-del-delta-serie-1:
+
+Valor del delta serie
+^^^^^^^^^^^^^^^^^^^^^
 
 .. code:: python
 
@@ -21873,7 +21875,7 @@ maxima normalizada.
                     titulo='Serie de tiempo normalizada, minima y maxima de la mascara wm',
                     name_save='promedio_min_max_series_wm_normalizada.png')
 
-.. figure:: output_123_0.png
+.. figure:: imagenes/output_123_0.png
    :alt: png
 
    png

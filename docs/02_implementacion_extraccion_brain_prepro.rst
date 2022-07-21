@@ -771,7 +771,7 @@ Definimos interface BET
    plot_anat(opj(path_output,new_name_save + '.nii.gz'), title='skullstrip fmri_prepro',
              display_mode='ortho', dim=-1, draw_cross=False, annotate=False);
 
-.. figure:: output_24_0.png
+.. figure:: imagenes/output_24_0.png
    :alt: png
 
    png
@@ -798,7 +798,7 @@ Cargamos la imagen y datos de la mascara binaria de img_prepro
    plot_anat(img_func_bin, title='skullstrip fmri_prepro_binaria',
              display_mode='ortho', dim=-1, draw_cross=False, annotate=False);
 
-.. figure:: output_28_0.png
+.. figure:: imagenes/output_28_0.png
    :alt: png
 
    png
@@ -867,12 +867,12 @@ Visualizamos
                      vol=30,
                      voxel=(34,36,30))
 
-.. figure:: output_37_0.png
+.. figure:: imagenes/output_37_0.png
    :alt: png
 
    png
 
-.. figure:: output_37_1.png
+.. figure:: imagenes/output_37_1.png
    :alt: png
 
    png
@@ -1166,7 +1166,7 @@ Zoom para comparara img_prepro e img_prepro_bet
 
       </table>
 
-.. figure:: output_39_1.png
+.. figure:: imagenes/output_39_1.png
    :alt: png
 
    png
@@ -1457,7 +1457,7 @@ Zoom para comparara img_prepro e img_prepro_bet
 
       </table>
 
-.. figure:: output_40_1.png
+.. figure:: imagenes/output_40_1.png
    :alt: png
 
    png
@@ -1748,7 +1748,7 @@ Zoom para comparara img_prepro e img_prepro_bet
 
       </table>
 
-.. figure:: output_41_1.png
+.. figure:: imagenes/output_41_1.png
    :alt: png
 
    png

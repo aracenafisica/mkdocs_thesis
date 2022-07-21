@@ -181,7 +181,7 @@ plt.show()
 
 
     
-![png](output_16_0.png)
+![png](imagenes/output_16_0.png)
     
 
 
@@ -221,13 +221,13 @@ plot_anat(opj(path_output, 'T1w_nipype_bet.nii.gz'), title='imagen anatómica ds
 
 
     
-![png](output_21_1.png)
+![png](imagenes/output_21_1.png)
     
 
 
 
     
-![png](output_21_2.png)
+![png](imagenes/output_21_2.png)
     
 
 
@@ -264,25 +264,25 @@ plot_anat(opj(path_output, 'T1w_nipype_bet_pve_2.nii.gz'), title='mascara WM (pv
 
 
     
-![png](output_26_0.png)
+![png](imagenes/output_26_0.png)
     
 
 
 
     
-![png](output_26_1.png)
+![png](imagenes/output_26_1.png)
     
 
 
 
     
-![png](output_26_2.png)
+![png](imagenes/output_26_2.png)
     
 
 
 
     
-![png](output_26_3.png)
+![png](imagenes/output_26_3.png)
     
 
 

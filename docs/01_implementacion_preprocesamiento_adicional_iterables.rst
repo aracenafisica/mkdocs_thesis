@@ -177,7 +177,7 @@ Interface ExtractROI - FSL
    plt.savefig(opj(path_output,titulo+'.png'))
    plt.show()
 
-.. figure:: output_16_0.png
+.. figure:: imagenes/output_16_0.png
    :alt: png
 
    png
@@ -214,12 +214,12 @@ Interface BET - FSL
    /home/aracena/.local/lib/python3.9/site-packages/nilearn/datasets/__init__.py:93: FutureWarning: Fetchers from the nilearn.datasets module will be updated in version 0.9 to return python strings instead of bytes and Pandas dataframes instead of Numpy arrays.
      warn("Fetchers from the nilearn.datasets module will be "
 
-.. figure:: output_21_1.png
+.. figure:: imagenes/output_21_1.png
    :alt: png
 
    png
 
-.. figure:: output_21_2.png
+.. figure:: imagenes/output_21_2.png
    :alt: png
 
    png
@@ -252,22 +252,22 @@ Interface FAST - FSL
    plot_anat(opj(path_output, 'T1w_nipype_bet_pve_2.nii.gz'), title='mascara WM (pve2)', 
              cut_coords=(14,15,18), display_mode='ortho', dim=-1, draw_cross=False, annotate=False);
 
-.. figure:: output_26_0.png
+.. figure:: imagenes/output_26_0.png
    :alt: png
 
    png
 
-.. figure:: output_26_1.png
+.. figure:: imagenes/output_26_1.png
    :alt: png
 
    png
 
-.. figure:: output_26_2.png
+.. figure:: imagenes/output_26_2.png
    :alt: png
 
    png
 
-.. figure:: output_26_3.png
+.. figure:: imagenes/output_26_3.png
    :alt: png
 
    png

@@ -1543,22 +1543,22 @@ Graficamos
            plot_anat(vol_img[im], title=im+' : umbral ='+ umbral_sel,
                      display_mode='ortho', dim=-1, draw_cross=False, annotate=False);
 
-.. figure:: output_41_0.png
+.. figure:: imagenes/output_41_0.png
    :alt: png
 
    png
 
-.. figure:: output_41_1.png
+.. figure:: imagenes/output_41_1.png
    :alt: png
 
    png
 
-.. figure:: output_41_2.png
+.. figure:: imagenes/output_41_2.png
    :alt: png
 
    png
 
-.. figure:: output_41_3.png
+.. figure:: imagenes/output_41_3.png
    :alt: png
 
    png
@@ -1572,12 +1572,12 @@ Ejecutamos función visual_cortes_ana
                     vol= 0,
                     voxel=(32,44,25))
 
-.. figure:: output_43_0.png
+.. figure:: imagenes/output_43_0.png
    :alt: png
 
    png
 
-.. figure:: output_43_1.png
+.. figure:: imagenes/output_43_1.png
    :alt: png
 
    png

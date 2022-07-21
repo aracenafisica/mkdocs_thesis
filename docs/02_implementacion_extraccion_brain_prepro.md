@@ -777,7 +777,7 @@ plot_anat(opj(path_output,new_name_save + '.nii.gz'), title='skullstrip fmri_pre
 
 
     
-![png](output_24_0.png)
+![png](imagenes/output_24_0.png)
     
 
 
@@ -805,7 +805,7 @@ plot_anat(img_func_bin, title='skullstrip fmri_prepro_binaria',
 
 
     
-![png](output_28_0.png)
+![png](imagenes/output_28_0.png)
     
 
 
@@ -881,13 +881,13 @@ visual_cortes_ana(img=img_oribet,
 
 
     
-![png](output_37_0.png)
+![png](imagenes/output_37_0.png)
     
 
 
 
     
-![png](output_37_1.png)
+![png](imagenes/output_37_1.png)
     
 
 
@@ -962,7 +962,7 @@ zoom_with_pto(img=img_oribet,
 
 
     
-![png](output_39_1.png)
+![png](imagenes/output_39_1.png)
     
 
 
@@ -1035,7 +1035,7 @@ zoom_with_pto(img=img_oribet,
 
 
     
-![png](output_40_1.png)
+![png](imagenes/output_40_1.png)
     
 
 
@@ -1108,7 +1108,7 @@ zoom_with_pto(img=img_oribet,
 
 
     
-![png](output_41_1.png)
+![png](imagenes/output_41_1.png)
     
 
 

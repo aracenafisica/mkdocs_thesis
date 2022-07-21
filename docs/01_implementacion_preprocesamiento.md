@@ -879,7 +879,7 @@ Image(filename=path_wf+'/work_preproc_corregistro/graph.png')
 
 
     
-![png](output_84_11.png)
+![png](imagenes/output_84_11.png)
     
 
 
@@ -900,7 +900,7 @@ Image(filename=path_wf+'/work_preproc_corregistro/graph_detailed.png')
 
 
     
-![png](output_85_11.png)
+![png](imagenes/output_85_11.png)
     
 
 

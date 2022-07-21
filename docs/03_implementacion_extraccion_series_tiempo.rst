@@ -1652,12 +1652,12 @@ Visualizamos los cortes anatomicos de las imagenes
                      vol= 40, 
                      voxel= (32,44,25))
 
-.. figure:: output_42_0.png
+.. figure:: imagenes/output_42_0.png
    :alt: png
 
    png
 
-.. figure:: output_42_1.png
+.. figure:: imagenes/output_42_1.png
    :alt: png
 
    png
@@ -1681,22 +1681,22 @@ Visualizamos con plot_anat
                  cut_coords=(10,10,10), display_mode='ortho', 
                  dim=-1, draw_cross=False, annotate=False);
 
-.. figure:: output_44_0.png
+.. figure:: imagenes/output_44_0.png
    :alt: png
 
    png
 
-.. figure:: output_44_1.png
+.. figure:: imagenes/output_44_1.png
    :alt: png
 
    png
 
-.. figure:: output_44_2.png
+.. figure:: imagenes/output_44_2.png
    :alt: png
 
    png
 
-.. figure:: output_44_3.png
+.. figure:: imagenes/output_44_3.png
    :alt: png
 
    png
