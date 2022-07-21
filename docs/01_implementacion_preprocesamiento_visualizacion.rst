@@ -1548,7 +1548,7 @@ Graficamos
 
    png
 
-.. figure:: imagenes/output_41_1.png
+.. figure:: imagenes/output_41_11.png
    :alt: png
 
    png
