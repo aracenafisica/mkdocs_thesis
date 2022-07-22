@@ -15399,7 +15399,7 @@ Tiempo de ejecución
     ---------------------------------------
 
 Referencia
-==========
+----------
 
 Con referencia:
 
