@@ -51,7 +51,8 @@ refieriendo a las imagenes o mascaras de csf, wm, gm
 
 --------------
 
-  # Modelos de regresión lineal múltiple en series aleatorias
+Modelos de regresión lineal múltiple en series aleatorias
+=========================================================
 
 Importamos librerias
 --------------------

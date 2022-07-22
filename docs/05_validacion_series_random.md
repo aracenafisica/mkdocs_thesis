@@ -53,7 +53,6 @@ Cuando indiquemos imagenes brain o mascaras brain, nos estamos refieriendo a las
 
 ---
 
-&nbsp;
 # Modelos de regresión lineal múltiple en series aleatorias
 
 ## Importamos librerias
