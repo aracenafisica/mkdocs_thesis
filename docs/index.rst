@@ -29,6 +29,8 @@ Thesis Magister Física Médica UC Andrés Aracena
     :caption: Metodología / Validación
     
     05_validacion_series_random
+    06_validacion_series_brain
+    07_validacion_series_brain_normalizada
 
 .. toctree::
     :maxdepth: 1

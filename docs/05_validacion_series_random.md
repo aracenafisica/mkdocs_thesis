@@ -12,31 +12,7 @@
 
 ---
 
-
-El siguiente Script de Python forma parte del trabajo especial de grado.
-
-Profesora Guía:
-
-*PhD María Daniela Cornejo*
-
----
-
----
-
-&nbsp;
-Con referencia:
-
-- [Pagina oficial NIbabel](https://nipy.org/nibabel/index.html) 
-
-Imagenes de fMRI extraidas de OpenNuero:
- 
- - [ds002422](https://openneuro.org/datasets/ds002422/versions/1.1.0)
- 
----
-
----
-
- Acronimos:
+Acronimos:
 
 - CSF: Cerebrospinal Fluid (*líquido cefalorraquídeo*)
 - GM: Gray Matter (*materia gris*)
@@ -9454,7 +9430,22 @@ print('---------------------------------------\n',
      17.020817958 seg
      0.2836802993 min
      ---------------------------------------
-    
+
+## Referencia
+
+
+Con referencia:
+
+- [Pagina oficial Nibabel](https://nipy.org/nibabel/index.html) 
+
+Imagenes de fMRI extraidas de OpenNuero:
+ 
+ - [ds002422](https://openneuro.org/datasets/ds002422/versions/1.1.0)
+ 
+
+## Localización del script de python
+
+[05_validacion_series_aleatorias](https://github.com/aracenafisica/05_validacion_series_aleatorias.git)
 
 
 ## FIN
