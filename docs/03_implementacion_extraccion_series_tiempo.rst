@@ -1652,15 +1652,9 @@ Visualizamos los cortes anatomicos de las imagenes
                      vol= 40, 
                      voxel= (32,44,25))
 
-.. figure:: imagenes/output_42_0.png
-   :alt: png
+|image1|
 
-   png
-
-.. figure:: imagenes/output_42_1.png
-   :alt: png
-
-   png
+|image2|
 
 Visualizamos con plot_anat
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1681,25 +1675,13 @@ Visualizamos con plot_anat
                  cut_coords=(10,10,10), display_mode='ortho', 
                  dim=-1, draw_cross=False, annotate=False);
 
-.. figure:: imagenes/output_44_0.png
-   :alt: png
+|image3|
 
-   png
+|image4|
 
-.. figure:: imagenes/output_44_1.png
-   :alt: png
+|image5|
 
-   png
-
-.. figure:: imagenes/output_44_2.png
-   :alt: png
-
-   png
-
-.. figure:: imagenes/output_44_3.png
-   :alt: png
-
-   png
+|image6|
 
 Extraemos todas las series de tiempo de la imagen funcional.
 ------------------------------------------------------------
@@ -20070,3 +20052,9 @@ Fin
 ---
 
 .. |image0| image:: imagenes/UC_FMRI.jpg
+.. |image1| image:: imagenes/output_42_0.png
+.. |image2| image:: imagenes/output_42_1.png
+.. |image3| image:: imagenes/output_44_0.png
+.. |image4| image:: imagenes/output_44_1.png
+.. |image5| image:: imagenes/output_44_2.png
+.. |image6| image:: imagenes/output_44_3.png

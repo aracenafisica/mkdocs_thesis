@@ -1543,25 +1543,13 @@ Graficamos
            plot_anat(vol_img[im], title=im+' : umbral ='+ umbral_sel,
                      display_mode='ortho', dim=-1, draw_cross=False, annotate=False);
 
-.. figure:: imagenes/output_41_0.png
-   :alt: png
+|image1|
 
-   png
+|image2|
 
-.. figure:: imagenes/output_41_11.png
-   :alt: png
+|image3|
 
-   png
-
-.. figure:: imagenes/output_41_2.png
-   :alt: png
-
-   png
-
-.. figure:: imagenes/output_41_3.png
-   :alt: png
-
-   png
+|image4|
 
 Ejecutamos función visual_cortes_ana
 ------------------------------------
@@ -1572,15 +1560,9 @@ Ejecutamos función visual_cortes_ana
                     vol= 0,
                     voxel=(32,44,25))
 
-.. figure:: imagenes/output_43_0.png
-   :alt: png
+|image5|
 
-   png
-
-.. figure:: imagenes/output_43_1.png
-   :alt: png
-
-   png
+|image6|
 
 Tiempo de ejecución
 -------------------
@@ -1632,3 +1614,9 @@ FIN
 ---
 
 .. |image0| image:: imagenes/UC_FMRI.jpg
+.. |image1| image:: imagenes/output_41_0.png
+.. |image2| image:: imagenes/output_41_11.png
+.. |image3| image:: imagenes/output_41_2.png
+.. |image4| image:: imagenes/output_41_3.png
+.. |image5| image:: imagenes/output_43_0.png
+.. |image6| image:: imagenes/output_43_1.png

@@ -776,25 +776,25 @@ for i, im in enumerate(vol_img):
 
 
     
-![png](imagenes/output_41_0.png)
+![](imagenes/output_41_0.png)
     
 
 
 
     
-![png](imagenes/output_41_11.png)
+![](imagenes/output_41_11.png)
     
 
 
 
     
-![png](imagenes/output_41_2.png)
+![](imagenes/output_41_2.png)
     
 
 
 
     
-![png](imagenes/output_41_3.png)
+![](imagenes/output_41_3.png)
     
 
 
@@ -809,13 +809,13 @@ visual_cortes_ana(img= img,
 
 
     
-![png](imagenes/output_43_0.png)
+![](imagenes/output_43_0.png)
     
 
 
 
     
-![png](imagenes/output_43_1.png)
+![](imagenes/output_43_1.png)
     
 
 

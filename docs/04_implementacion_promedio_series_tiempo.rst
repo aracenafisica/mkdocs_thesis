@@ -10280,10 +10280,7 @@ Graficamos series de tiempo
                     titulo='Promedio global de las series de tiempo de las mascaras del CSF, GM y WM',
                     name_save='promedio_series_brain_promedio.png')
 
-.. figure:: imagenes/output_51_0.png
-   :alt: png
-
-   png
+|image1|
 
 .. code:: python
 
@@ -10292,10 +10289,7 @@ Graficamos series de tiempo
                     titulo='Promedio global normalizado de las series de tiempo de las mascaras del CSF, GM y WM',
                     name_save= 'promedio_series_brain_normalizados.png')
 
-.. figure:: imagenes/output_52_0.png
-   :alt: png
-
-   png
+|image2|
 
 Serie minima y maxima de las mascaras brain
 -------------------------------------------
@@ -14537,10 +14531,7 @@ Damos un formato a las DF solo para ser extraidas a un documento
                      titulo='Serie de tiempo promedio global, minima y maxima de la mascara del CSF',
                      name_save='promedio_min_max_series_csf_promedio.png')
 
-.. figure:: imagenes/output_77_0.png
-   :alt: png
-
-   png
+|image3|
 
 Valor del delta serie
 ^^^^^^^^^^^^^^^^^^^^^
@@ -15868,10 +15859,7 @@ maxima normalizada.
                     titulo='Serie de tiempo normalizada, minima y maxima de la mascara csf',
                     name_save='promedio_min_max_series_csf_normalizada.png')
 
-.. figure:: imagenes/output_86_0.png
-   :alt: png
-
-   png
+|image4|
 
 Mascara WM
 ~~~~~~~~~~
@@ -20116,10 +20104,7 @@ Damos un formato a las DF solo para ser extraidas a un documento
                     titulo='Serie de tiempo promedio, minima y maxima de la mascara de la WM',
                     name_save='promedio_min_max_series_wm_promedio.png')
 
-.. figure:: imagenes/output_109_0.png
-   :alt: png
-
-   png
+|image5|
 
 .. _valor-del-delta-serie-1:
 
@@ -21875,10 +21860,7 @@ maxima normalizada.
                     titulo='Serie de tiempo normalizada, minima y maxima de la mascara wm',
                     name_save='promedio_min_max_series_wm_normalizada.png')
 
-.. figure:: imagenes/output_123_0.png
-   :alt: png
-
-   png
+|image6|
 
 Tiempo de ejecución
 -------------------
@@ -21933,3 +21915,9 @@ Fin
 ---
 
 .. |image0| image:: imagenes/UC_FMRI.jpg
+.. |image1| image:: imagenes/output_51_0.png
+.. |image2| image:: imagenes/output_52_0.png
+.. |image3| image:: imagenes/output_77_0.png
+.. |image4| image:: imagenes/output_86_0.png
+.. |image5| image:: imagenes/output_109_0.png
+.. |image6| image:: imagenes/output_123_0.png

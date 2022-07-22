@@ -492,7 +492,7 @@ plt.show()
 
 
     
-![png](output_50_0.png)
+![](output_50_0.png)
     
 
 
@@ -751,7 +751,7 @@ plt.show()
 
 
     
-![png](imagenes/output_72_0.png)
+![](imagenes/output_72_0.png)
     
 
 
@@ -995,13 +995,13 @@ visual_cortes_ana(img= img_pru,
 
 
     
-![png](imagenes/output_80_0.png)
+![](imagenes/output_80_0.png)
     
 
 
 
     
-![png](imagenes/output_80_1.png)
+![](imagenes/output_80_1.png)
     
 
 
@@ -1015,13 +1015,13 @@ visual_cortes_ana(img= img_pru,
 
 
     
-![png](imagenes/output_81_0.png)
+![](imagenes/output_81_0.png)
     
 
 
 
     
-![png](imagenes/output_81_1.png)
+![](imagenes/output_81_1.png)
     
 
 
@@ -1043,13 +1043,13 @@ visual_cortes_ana(img= img_pru,
 
 
     
-![png](imagenes/output_85_0.png)
+![](imagenes/output_85_0.png)
     
 
 
 
     
-![png](imagenes/output_85_1.png)
+![](imagenes/output_85_1.png)
     
 
 

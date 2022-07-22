@@ -593,7 +593,7 @@ display(datos_json_img[3])
 
 
     
-![png](imagenes/output_32_1.png)
+![](imagenes/output_32_1.png)
     
 
 

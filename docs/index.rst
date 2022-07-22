@@ -22,6 +22,11 @@ Thesis Magister Física Médica UC Andrés Aracena
     04_implementacion_promedio_series_tiempo
     
 .. toctree::
+    :caption: Metodología / Validación
+    
+    05_validacion_series_random
+
+.. toctree::
     :caption: Scripts adicionales
     
     01_implementacion_preprocesamiento_visualizacion

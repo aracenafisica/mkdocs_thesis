@@ -1900,7 +1900,7 @@ plot_series_time(df_data=df_brain_val_prom,
 
 
     
-![png](imagenes/output_51_0.png)
+![](imagenes/output_51_0.png)
     
 
 
@@ -1914,7 +1914,7 @@ plot_series_time(df_data=df_brain_norm_prom,
 
 
     
-![png](imagenes/output_52_0.png)
+![](imagenes/output_52_0.png)
     
 
 
@@ -2799,7 +2799,7 @@ plot_series_time(df_data=df_ser_prom,
 
 
     
-![png](imagenes/output_77_0.png)
+![](imagenes/output_77_0.png)
     
 
 
@@ -3094,7 +3094,7 @@ plot_series_time(df_data=df_ser_prom_norm,
 
 
     
-![png](imagenes/output_86_0.png)
+![](imagenes/output_86_0.png)
     
 
 
@@ -3972,7 +3972,7 @@ plot_series_time(df_data=df_ser_prom,
 
 
     
-![png](imagenes/output_109_0.png)
+![](imagenes/output_109_0.png)
     
 
 
@@ -4390,7 +4390,7 @@ plot_series_time(df_data=df_ser_prom_norm,
 
 
     
-![png](imagenes/output_123_0.png)
+![](imagenes/output_123_0.png)
     
 
 

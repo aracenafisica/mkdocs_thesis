@@ -969,10 +969,7 @@ Visualizamos el Flujo de trabajo
    220521-05:30:09,49 nipype.workflow INFO:
         Generated workflow graph: /home/aracena/thesis_ds002422/01_fase1_extraccion_mask_brain/output/output_workflow/work_preproc_corregistro/graph.png (graph2use=colored, simple_form=True).
 
-.. figure:: imagenes/output_84_11.png
-   :alt: png
-
-   png
+|image2|
 
 .. code:: python
 
@@ -986,10 +983,7 @@ Visualizamos el Flujo de trabajo
    220521-05:30:09,879 nipype.workflow INFO:
         Generated workflow graph: /home/aracena/thesis_ds002422/01_fase1_extraccion_mask_brain/output/output_workflow/work_preproc_corregistro/graph.png (graph2use=flat, simple_form=True).
 
-.. figure:: imagenes/output_85_11.png
-   :alt: png
-
-   png
+|image3|
 
 Ejecutamos el flujo de trabajo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -4217,3 +4211,5 @@ Fin
 
 .. |image0| image:: imagenes/UC_FMRI.jpg
 .. |image1| image:: imagenes/error_MCFLIRT.png
+.. |image2| image:: imagenes/output_84_11.png
+.. |image3| image:: imagenes/output_85_11.png

@@ -12,7 +12,7 @@
 
 --------------
 
-Función ‘order_slice’
+Orden de adquisición de neuroimágenes y función ‘order_slice’
 =============================================================
 
 Para la adquisición del orden de adquisición de la imagen, extraemos
@@ -1630,10 +1630,7 @@ Ejecutamos función
 
    Número de cortes =  36
 
-.. figure:: imagenes/output_32_1.png
-   :alt: png
-
-   png
+|image3|
 
 .. container::
 
@@ -2892,3 +2889,4 @@ Fin
 .. |image0| image:: imagenes/UC_FMRI.jpg
 .. |image1| image:: imagenes/GIF_SECUENCIAL.gif
 .. |image2| image:: imagenes/GIF_INTERCALADO.gif
+.. |image3| image:: imagenes/output_32_1.png

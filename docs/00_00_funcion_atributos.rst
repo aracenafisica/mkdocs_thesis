@@ -12,10 +12,8 @@
 
 --------------
 
-Función ‘atributos_img’
+Atributos de neuroimagenes con *nibabel* y función ‘atributos_img’
 ==================================================================
-
-En el siguiente Script daramos un repaso a los diferentes atributos de neuroimagenes con *nibabel* y la creación de la función 'atributos_img'
 
 Importamos librerias
 --------------------

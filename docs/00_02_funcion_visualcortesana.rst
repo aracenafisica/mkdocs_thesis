@@ -625,10 +625,7 @@ Para visualizar el corte, importamos el modulo
    plt.savefig(opj(path_png,name_save))
    plt.show()
 
-.. figure:: output_50_0.png
-   :alt: png
-
-   png
+|image13|
 
 Estamos observando una imagen sagital, la cual corresponde al plano YZ
 en el sistema de coordenadas mundial. La adquisición de la imagen
@@ -886,10 +883,7 @@ Cargamos los datos del corte seleccionado (*cor*)
    plt.savefig(opj(path_png,name_save))
    plt.show()
 
-.. figure:: imagenes/output_72_0.png
-   :alt: png
-
-   png
+|image14|
 
 Estamos observando una imagen axial, la cual corresponde al plano XY en
 el sistema de coordenadas mundial. La adquisición de la imagen
@@ -961,7 +955,7 @@ las imágenes. En la imagen se ilustra como en un volumen de 5x5x5
 vóxeles, elegimos el voxel (3,4,2) para visualizar los cortes sobre
 dicho voxel.
 
-|image13|
+|image15|
 
 .. code:: python
 
@@ -1149,15 +1143,9 @@ Ejecutamos función para cada imagen
                     vol= 0,
                     voxel=(158,182,90))
 
-.. figure:: imagenes/output_80_0.png
-   :alt: png
+|image16|
 
-   png
-
-.. figure:: imagenes/output_80_1.png
-   :alt: png
-
-   png
+|image17|
 
 .. code:: python
 
@@ -1166,15 +1154,9 @@ Ejecutamos función para cada imagen
                     vol= 0,
                     voxel=(30,31,18))
 
-.. figure:: imagenes/output_81_0.png
-   :alt: png
+|image18|
 
-   png
-
-.. figure:: imagenes/output_81_1.png
-   :alt: png
-
-   png
+|image19|
 
 Ejecutamos función con ambas imágenes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1194,15 +1176,9 @@ que seran input de la función.
                     vol= 0,
                     voxel=(20,40,25))
 
-.. figure:: imagenes/output_85_0.png
-   :alt: png
+|image20|
 
-   png
-
-.. figure:: imagenes/output_85_1.png
-   :alt: png
-
-   png
+|image21|
 
 Tiempo de ejecución
 -------------------
@@ -1299,4 +1275,12 @@ Fin
 .. |image10| image:: imagenes/sistema_coordenadas_voxel_2.png
 .. |image11| image:: imagenes/sistema_coordenadas_voxel_ras.png
 .. |image12| image:: imagenes/sistema_coordenadas_voxel_psr.png
-.. |image13| image:: imagenes/funcion_cortes_ana.png
+.. |image13| image:: output_50_0.png
+.. |image14| image:: imagenes/output_72_0.png
+.. |image15| image:: imagenes/funcion_cortes_ana.png
+.. |image16| image:: imagenes/output_80_0.png
+.. |image17| image:: imagenes/output_80_1.png
+.. |image18| image:: imagenes/output_81_0.png
+.. |image19| image:: imagenes/output_81_1.png
+.. |image20| image:: imagenes/output_85_0.png
+.. |image21| image:: imagenes/output_85_1.png
