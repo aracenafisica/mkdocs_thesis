@@ -31,6 +31,12 @@ Thesis Magister Física Médica UC Andrés Aracena
     05_validacion_series_random
     06_validacion_series_brain
     07_validacion_series_brain_normalizada
+    
+.. toctree::
+    :maxdepth: 1
+    :caption: Metodología / Pruebas
+    
+    08_prueba/08_regresion_lineal_corte_imagen
 
 .. toctree::
     :maxdepth: 1
