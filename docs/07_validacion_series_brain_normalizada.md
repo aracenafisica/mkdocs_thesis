@@ -4006,7 +4006,7 @@ Imagenes de fMRI extraidas de OpenNuero:
 
 ## Localización del script de python
 
-[07_validacion_series_brain_normalizad](https://github.com/aracenafisica/07_validacion_series_brain_normalizada.git)
+[07_validacion_series_brain_normalizada](https://github.com/aracenafisica/07_validacion_series_brain_normalizada.git)
  
 
 ## FIN
