@@ -1,4 +1,4 @@
-![](imagenes/UC_FMRI.jpg)
+![](UC_FMRI.jpg)
 
 ---
 

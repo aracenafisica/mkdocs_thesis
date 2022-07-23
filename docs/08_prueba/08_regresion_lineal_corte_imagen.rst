@@ -61535,7 +61535,7 @@ Localización del script de python
 FIN
 ---
 
-.. |image0| image:: imagenes/UC_FMRI.jpg
+.. |image0| image:: UC_FMRI.jpg
 .. |image1| image:: output_111_0.png
 .. |image2| image:: output_113_0.png
 .. |image3| image:: output_130_0.png
